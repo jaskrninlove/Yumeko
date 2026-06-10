@@ -2,3 +2,4 @@ kurigram
 tgcrypto
 python-dotenv
 motor
+pillow
