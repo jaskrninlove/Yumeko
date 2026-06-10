@@ -1,0 +1,216 @@
+{
+  "btn_games": "🎮 Games Menu 🎮",
+  "btn_help": "🔍 Help",
+  "btn_owner": "Owner 🐳 ",
+  "btn_support": "🛟 Support",
+  "btn_channel": "Channel 🎈",
+  "btn_add_group": "🥂 Add Me To Your Group 🥂",
+  "btn_back": "⬿ Back",
+  "btn_home": "Home ❄",
+
+  "btn_party_games": "🎭 Party Games",
+  "btn_mind_games": "🧠 Mind Games",
+  "btn_fast_games": "⚡ Fast Games",
+  "btn_economy_games": "💰 Economy Games",
+
+  "start_caption": "<blockquote>\n🎭 <b>Hey {mention}~</b></blockquote>\n\nWelcome to my little world of games, luck, and endless excitement. I'm <b>Yumeko</b>, your gaming companion, and I love challenges, surprises, and a little bit of risk. 🥂\n\n<blockquote><i>Every match is a new adventure, every victory tells a story, and every player has a chance to become a legend. Whether you're here to compete, have fun with friends, collect rewards, or climb the leaderboards, something exciting is always waiting for you.🕸️</i></blockquote>\n\n🎲 Ready to test your luck?\n🏆 Ready to become a champion?\n\n<b>Then let's begin our game together~ ♡</b>"
+,
+
+
+  "games_caption": "<blockquote>\n🎮 <b>Yumeko Game Center</b>\n\nSelect a category and start playing.\nEvery game includes proper rules, rewards and how-to-play guide.\n</blockquote>\n\n<b>Available Categories:</b>\n\n🎭 Party Games\n🧠 Mind Games\n⚡ Fast Games\n💰 Economy Games",
+
+  "help_caption": "<blockquote>\n📚 <b>Yumeko Help & Commands</b>\n</blockquote>\n\n<b>Basic Commands:</b>\n\n/start — Start the bot\n/help — Show help menu\n/ping — Check bot speed and uptime\n/games — Open games menu\n\n<b>Coming Soon:</b>\n\n/profile — Your gaming profile\n/leaderboard — Top players\n/daily — Claim daily coins\n/inventory — Your items",
+
+  "owner_caption": "<blockquote>\n👑 <b>Yumeko Owner Panel</b>\n</blockquote>\n\n<b>Developer:</b> <a href=\"https://t.me/imceobiitxh\">𝘿𝙐𝙂𝙂𝙐ᝰ.</a>\n<b>Project:</b> Yumeko Jabami\n<b>Version:</b> 1.0.0\n\nThis bot is built as an advanced multiplayer Telegram gaming platform.",
+
+  "ping_caption": "<blockquote>\n🏓 <b>Pong!</b>\n</blockquote>\n\n<b>Ping:</b> <code>{ping} ms</code>\n<b>Uptime:</b> <code>{uptime}</code>\n<b>Status:</b> <code>Running Smoothly</code>",
+
+  "party_games_caption": "<blockquote>\n🎭 <b>Party Games</b>\n</blockquote>\n\nFun multiplayer games for groups and friends.\n\n<b>Coming Soon:</b>\n• Mafia\n• Imposter\n• Truth & Dare\n• Never Have I Ever",
+
+  "mind_games_caption": "<blockquote>\n🧠 <b>Mind Games</b>\n</blockquote>\n\nBrain games, quizzes and puzzle challenges.\n\n<b>Coming Soon:</b>\n• Quiz\n• Emoji Quiz\n• Guess Movie\n• Rapid Quiz",
+
+  "fast_games_caption": "<blockquote>\n⚡ <b>Fast Games</b>\n</blockquote>\n\nQuick reaction and speed-based games.\n\n<b>Coming Soon:</b>\n• Reaction Battle\n• Typing Race\n• Fastest Finger",
+
+  "economy_games_caption": "<blockquote>\n💰 <b>Economy Games</b>\n</blockquote>\n\nEarn coins, collect rewards and unlock items.\n\n<b>Coming Soon:</b>\n• Daily Rewards\n• Shop\n• Inventory\n• Achievements",
+
+"new_user_log": "<blockquote>👤 <b>New User Started Yumeko</b></blockquote>\n\n<b>Name:</b> {name}\n<b>User ID:</b> <code>{user_id}</code>\n<b>Username:</b> @{username}",
+
+"old_user_log": "<blockquote>👤 <b>User Opened Yumeko</b></blockquote>\n\n<b>Name:</b> {name}\n<b>User ID:</b> <code>{user_id}</code>\n<b>Username:</b> @{username}",
+
+"new_group_log": "<blockquote>🏘 <b>Yumeko Added To Group</b></blockquote>\n\n<b>Group:</b> {title}\n<b>Chat ID:</b> <code>{chat_id}</code>\n<b>Username:</b> @{username}",
+
+"startup_log": "<blockquote>🎲 <b>Yumeko Games Bot Started</b></blockquote>\n\n<b>Status:</b> Online\n<b>Version:</b> 1.0.0\n<b>Developer:</b> Jass"
+,
+"profile_caption": "<blockquote>\n👤 <b>Yumeko Player Profile</b>\n</blockquote>\n\n<b>Name:</b> {name}\n<b>User ID:</b> <code>{user_id}</code>\n\n💰 <b>Coins:</b> <code>{coins}</code>\n⭐ <b>XP:</b> <code>{xp}</code>\n🎮 <b>Games Played:</b> <code>{games_played}</code>\n🏆 <b>Wins:</b> <code>{games_won}</code>\n💔 <b>Losses:</b> <code>{games_lost}</code>\n📊 <b>Win Rate:</b> <code>{win_rate}%</code>",
+
+"leaderboard_caption": "<blockquote>\n🏆 <b>Yumeko Global Leaderboard</b>\n</blockquote>\n\n{leaderboard}",
+
+"leaderboard_empty": "No players found yet.",
+
+"stats_caption": "<blockquote>\n📊 <b>Yumeko Bot Statistics</b>\n</blockquote>\n\n👤 <b>Total Users:</b> <code>{users}</code>\n🏘 <b>Total Groups:</b> <code>{groups}</code>\n🎮 <b>Total Games Played:</b> <code>{games_played}</code>\n🏆 <b>Total Wins:</b> <code>{games_won}</code>\n💔 <b>Total Losses:</b> <code>{games_lost}</code>\n💰 <b>Total Coins:</b> <code>{coins}</code>\n⭐ <b>Total XP:</b> <code>{xp}</code>"
+,
+"group_start_caption": "<blockquote>\n🎲 <b>Yumeko is ready in this group!</b>\n</blockquote>\n\nTap the button below to open the game center.\n\n<b>Note:</b> Some game controls are only available for group admins.",
+
+"bot_added_caption": "<blockquote>\n💖 <b>Thank you for adding Yumeko!</b>\n</blockquote>\n\nHii everyone, I am <b>Yumeko</b> — your cute gaming host.\n\nMake me admin so I can manage multiplayer games, buttons, turns, timers and rewards properly.\n\nTap below to open the game center.",
+
+"bot_not_admin": "Please make me admin first, otherwise I cannot manage games properly.",
+
+"admin_only": "Only group admins can use this command."
+
+,
+"game_category_caption": "<blockquote>\n{title}\n</blockquote>\n\n{description}\n\n<b>Select a game below:</b>",
+
+"game_info_caption": "<blockquote>\n{title}\n</blockquote>\n\n<b>Command:</b> <code>{command}</code>\n<b>Players:</b> <code>{players}</code>\n<b>Status:</b> <code>{status}</code>\n\nUse the buttons below to see how to play, rules and rewards.",
+
+"game_mafia_help": "<blockquote>\n🎭 <b>Mafia - How To Play</b>\n</blockquote>\n\nMafia is a social deduction game.\n\n1. Players join the match.\n2. Secret roles are assigned.\n3. Mafia secretly eliminates players at night.\n4. Villagers discuss and vote during the day.\n5. Villagers win by finding all mafia.\n6. Mafia wins if they control the group.",
+
+"game_mafia_rules": "<blockquote>\n🎭 <b>Mafia Rules</b>\n</blockquote>\n\n• Minimum 5 players required.\n• Do not reveal private role messages.\n• Voting is final.\n• Dead players cannot vote.\n• Admins can stop the game if needed.",
+
+"game_mafia_rewards": "<blockquote>\n🎭 <b>Mafia Rewards</b>\n</blockquote>\n\n🏆 Winning Team: 100 Coins + 50 XP\n🎯 Best Player: 150 Coins + 80 XP\n🎮 Participation: 10 XP",
+
+"game_imposter_help": "<blockquote>\n🕵️ <b>Imposter - How To Play</b>\n</blockquote>\n\nOne player becomes the imposter while others receive the same secret word.\n\nPlayers ask questions and try to find who does not know the word.",
+
+"game_imposter_rules": "<blockquote>\n🕵️ <b>Imposter Rules</b>\n</blockquote>\n\n• Minimum 3 players required.\n• Do not directly say the secret word.\n• Vote carefully.\n• Imposter wins by staying hidden.",
+
+"game_imposter_rewards": "<blockquote>\n🕵️ <b>Imposter Rewards</b>\n</blockquote>\n\n🏆 Winner: 80 Coins + 40 XP\n🎮 Participation: 10 XP",
+
+"game_truth_dare_help": "<blockquote>\n🎲 <b>Truth & Dare - How To Play</b>\n</blockquote>\n\nChoose Truth or Dare and complete the challenge given by Yumeko.",
+
+"game_truth_dare_rules": "<blockquote>\n🎲 <b>Truth & Dare Rules</b>\n</blockquote>\n\n• Keep it fun and respectful.\n• No harmful tasks.\n• Players can skip limited times.",
+
+"game_truth_dare_rewards": "<blockquote>\n🎲 <b>Truth & Dare Rewards</b>\n</blockquote>\n\n🎁 Complete challenge: 20 Coins + 10 XP",
+
+"game_quiz_help": "<blockquote>\n🧠 <b>Quiz Battle - How To Play</b>\n</blockquote>\n\nYumeko asks questions. The fastest correct answer gets points.",
+
+"game_quiz_rules": "<blockquote>\n🧠 <b>Quiz Rules</b>\n</blockquote>\n\n• Answer before time runs out.\n• Fastest correct answer wins the round.\n• No spam answers.",
+
+"game_quiz_rewards": "<blockquote>\n🧠 <b>Quiz Rewards</b>\n</blockquote>\n\n🏆 Winner: 60 Coins + 30 XP\n🎮 Participation: 5 XP",
+
+"game_word_chain_help": "<blockquote>\n🔤 <b>Word Chain - How To Play</b>\n</blockquote>\n\nEach player sends a word starting with the last letter of the previous word.",
+
+"game_word_chain_rules": "<blockquote>\n🔤 <b>Word Chain Rules</b>\n</blockquote>\n\n• Words cannot repeat.\n• Must start with the correct letter.\n• Invalid words are rejected.",
+
+"game_word_chain_rewards": "<blockquote>\n🔤 <b>Word Chain Rewards</b>\n</blockquote>\n\n🏆 Winner: 50 Coins + 25 XP",
+
+"game_reaction_help": "<blockquote>\n⚡ <b>Reaction Battle - How To Play</b>\n</blockquote>\n\nTap the correct button as fast as possible when Yumeko says GO.",
+
+"game_reaction_rules": "<blockquote>\n⚡ <b>Reaction Rules</b>\n</blockquote>\n\n• Only first valid tap wins.\n• False taps may be ignored.\n• Fastest player gets reward.",
+
+"game_reaction_rewards": "<blockquote>\n⚡ <b>Reaction Rewards</b>\n</blockquote>\n\n🏆 Fastest Player: 40 Coins + 20 XP",
+
+"game_typing_race_help": "<blockquote>\n⌨️ <b>Typing Race - How To Play</b>\n</blockquote>\n\nYumeko gives a sentence. Type it exactly as shown before others.",
+
+"game_typing_race_rules": "<blockquote>\n⌨️ <b>Typing Race Rules</b>\n</blockquote>\n\n• Text must match exactly.\n• First correct message wins.\n• Edited messages do not count.",
+
+"game_typing_race_rewards": "<blockquote>\n⌨️ <b>Typing Race Rewards</b>\n</blockquote>\n\n🏆 Winner: 50 Coins + 25 XP",
+
+"game_daily_help": "<blockquote>\n🎁 <b>Daily Rewards - How To Use</b>\n</blockquote>\n\nUse /daily once every day to claim coins and XP.",
+
+"game_daily_rules": "<blockquote>\n🎁 <b>Daily Rewards Rules</b>\n</blockquote>\n\n• Claim once every 24 hours.\n• Rewards may increase during events.",
+
+"game_daily_rewards": "<blockquote>\n🎁 <b>Daily Rewards</b>\n</blockquote>\n\nDaily Claim: 100 Coins + 20 XP"
+,
+"daily_success": "<blockquote>\n🎁 <b>Daily Reward Claimed!</b>\n</blockquote>\n\nYou received:\n\n💰 <b>Coins:</b> <code>{coins}</code>\n⭐ <b>XP:</b> <code>{xp}</code>\n\nCome back tomorrow for another reward.",
+
+"daily_cooldown": "<blockquote>\n⏳ <b>Daily Reward Already Claimed</b>\n</blockquote>\n\nYou can claim again in:\n\n<code>{hours}h {minutes}m {seconds}s</code>",
+
+"daily_user_not_found": "Please use /start first before claiming your daily reward."
+,
+"reaction_start_caption": "<blockquote>\n⚡ <b>Reaction Battle</b>\n</blockquote>\n\nTap <b>Join Game</b> to enter.\n\nWhen the host starts, Yumeko will show a button randomly.\nThe fastest tap wins.\n\n<b>Players Joined:</b>\n{players}",
+
+"reaction_already_running": "A Reaction Battle is already running in this group.",
+
+"reaction_private_error": "Reaction Battle can only be played in groups.",
+
+"reaction_joined_alert": "You joined Reaction Battle!",
+
+"reaction_already_joined_alert": "You already joined this game.",
+
+"reaction_started_alert": "Reaction Battle started!",
+
+"reaction_min_players": "At least 2 players are required to start Reaction Battle.",
+
+"reaction_only_host": "Only the host or group admins can start/cancel this game.",
+
+"reaction_cancelled": "<blockquote>\n❌ <b>Reaction Battle Cancelled</b>\n</blockquote>\n\nThe game has been cancelled.",
+
+"reaction_winner": "<blockquote>\n🏆 <b>Reaction Battle Winner!</b>\n</blockquote>\n\n⚡ <b>{name}</b> tapped first!\n\nRewards:\n💰 <b>{coins}</b> Coins\n⭐ <b>{xp}</b> XP"
+,
+"typing_start_caption": "<blockquote>\n⌨️ <b>Typing Race</b>\n</blockquote>\n\nTap <b>Join Race</b> to enter.\n\nWhen the race starts, Yumeko will send a sentence.\nType it exactly as shown.\n\n<b>Players Joined:</b>\n{players}",
+
+"typing_private_error": "Typing Race can only be played in groups.",
+
+"typing_already_running": "A Typing Race is already running in this group.",
+
+"typing_joined_alert": "You joined Typing Race!",
+
+"typing_already_joined_alert": "You already joined this race.",
+
+"typing_started_alert": "Typing Race started!",
+
+"typing_min_players": "At least 2 players are required to start Typing Race.",
+
+"typing_only_host": "Only the host or group admins can start/cancel this race.",
+
+"typing_cancelled": "<blockquote>\n❌ <b>Typing Race Cancelled</b>\n</blockquote>\n\nThe race has been cancelled.",
+
+"typing_race_started": "<blockquote>\n⌨️ <b>Typing Race Started!</b>\n</blockquote>\n\nType this sentence exactly:\n\n<code>{sentence}</code>\n\nFirst correct message wins!",
+
+"typing_winner": "<blockquote>\n🏆 <b>Typing Race Winner!</b>\n</blockquote>\n\n⌨️ <b>{name}</b> typed it first!\n\nSentence:\n<code>{sentence}</code>\n\nRewards:\n💰 <b>{coins}</b> Coins\n⭐ <b>{xp}</b> XP"
+,
+"wordchain_private_error": "Word Chain can only be played in groups.",
+
+"wordchain_already_running": "A Word Chain game is already running in this group.",
+
+"wordchain_start_caption": "<blockquote>\n🔤 <b>Word Chain</b>\n</blockquote>\n\nTap <b>Join Game</b> to enter.\n\nWhen the game starts, send a word beginning with the required letter.\n\n<b>Players Joined:</b>\n{players}",
+
+"wordchain_joined_alert": "You joined Word Chain!",
+
+"wordchain_already_joined_alert": "You already joined this game.",
+
+"wordchain_min_players": "At least 2 players are required to start Word Chain.",
+
+"wordchain_only_host": "Only the host or group admins can start/stop this game.",
+
+"wordchain_started": "<blockquote>\n🔤 <b>Word Chain Started!</b>\n</blockquote>\n\nSend a word starting with:\n\n<code>{letter}</code>\n\nExample: If letter is <code>a</code>, send <code>apple</code>.",
+
+"wordchain_valid_word": "✅ <b>{name}</b> used <code>{word}</code>\n\nNext letter: <code>{letter}</code>\n\n+2 XP",
+
+"wordchain_wrong_letter": "Wrong letter. Your word must start with <code>{letter}</code>.",
+
+"wordchain_used_word": "This word is already used.",
+
+"wordchain_invalid_word": "Please send a valid single word using only letters.",
+
+"wordchain_too_short": "Word is too short.",
+
+"wordchain_not_joined": "You are not a player in this Word Chain game.",
+
+"wordchain_stopped": "<blockquote>\n🛑 <b>Word Chain Ended</b>\n</blockquote>\n\n🏆 <b>Winner:</b> {winner}\n🔤 <b>Words:</b> <code>{score}</code>\n\n<b>Final Scores:</b>\n{scores}\n\nRewards:\n💰 <b>{coins}</b> Coins\n⭐ <b>{xp}</b> XP",
+
+"wordchain_stopped_no_winner": "<blockquote>\n🛑 <b>Word Chain Ended</b>\n</blockquote>\n\nNo winner because no valid words were played."
+,
+"game_already_running_global": "A game is already running in this group: <b>{game}</b>\n\nPlease finish or cancel it before starting another game."
+,
+"truth_caption": "<blockquote>\n🎭 <b>Truth</b>\n</blockquote>\n\n<b>{mention}</b>, Yumeko has a question for you...\n\n<blockquote>{question}</blockquote>\n\nAnswer in chat to claim your reward.\n\n⭐ <b>Reward:</b> <code>{xp} XP</code>",
+
+"dare_caption": "<blockquote>\n🎲 <b>Dare</b>\n</blockquote>\n\n<b>{mention}</b>, Yumeko has chosen a challenge for you...\n\n<blockquote>{dare}</blockquote>\n\nComplete it and press the button below.\n\n💰 <b>Reward:</b> <code>{coins} Coins</code>\n⭐ <b>XP:</b> <code>{xp}</code>",
+
+"truthdare_caption": "<blockquote>\n🎭 <b>{mode}</b>\n</blockquote>\n\n<b>{mention}</b>, fate has picked this for you...\n\n<blockquote>{text}</blockquote>\n\nYumeko is watching. ♡",
+
+"truth_answered": "<blockquote>\n🎭 <b>Truth Answered</b>\n</blockquote>\n\n{reaction}\n\n⭐ <b>Reward:</b> <code>{xp} XP</code>",
+
+"dare_completed": "<blockquote>\n🎲 <b>Dare Completed</b>\n</blockquote>\n\n{reaction}\n\n💰 <b>Reward:</b> <code>{coins} Coins</code>\n⭐ <b>XP:</b> <code>{xp}</code>",
+
+"dare_skipped": "<blockquote>\n🎭 <b>Dare Skipped</b>\n</blockquote>\n\n{reaction}\n\nNo reward this time.",
+
+"truthdare_no_active": "No active Truth or Dare found for you, darling.",
+
+"truthdare_not_yours": "This card belongs to someone else, darling.",
+
+"btn_truth": "🎭 Truth",
+"btn_dare": "🎲 Dare",
+"btn_random_td": "🃏 Random",
+"btn_dare_done": "✅ Completed",
+"btn_dare_skip": "❌ Skip"
+}
